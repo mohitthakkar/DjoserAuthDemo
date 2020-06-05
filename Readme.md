@@ -229,3 +229,7 @@ Access Admin panel here
 
 To get all available commands:
 > python manage.py --help
+
+References:
+> https://www.tag1consulting.com/blog/building-api-django-20-part-i
+> https://lewiskori.com/blog/user-registration-and-authorization-on-a-django-api-with-djoser-and-json-web-tokens/
